@@ -1,4 +1,3 @@
 Lameya Nourin
 AIUB
-CSE
-23-55707-3
+CS
